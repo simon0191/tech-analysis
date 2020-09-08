@@ -7,3 +7,6 @@
 
 `jupyter notebook`
 
+## Adding dependencies
+
+`pip freeze > requirements.txt`
